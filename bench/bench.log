@@ -1,0 +1,328 @@
+n=16 p=0.6 T=2000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.6 T=2000 D=1 trial=1: 6 errs 0.05s
+n=16 p=0.6 T=2000 D=1 trial=2: EXACT 0.04s
+n=16 p=0.6 T=10000 D=1 trial=0: EXACT 0.06s
+n=16 p=0.6 T=10000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.6 T=10000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.6 T=50000 D=1 trial=0: EXACT 0.06s
+n=16 p=0.6 T=50000 D=1 trial=1: EXACT 0.08s
+n=16 p=0.6 T=50000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.7 T=2000 D=1 trial=0: 6 errs 0.06s
+n=16 p=0.7 T=2000 D=1 trial=1: 6 errs 0.05s
+n=16 p=0.7 T=2000 D=1 trial=2: 8 errs 0.05s
+n=16 p=0.7 T=10000 D=1 trial=0: EXACT 0.04s
+n=16 p=0.7 T=10000 D=1 trial=1: EXACT 0.04s
+n=16 p=0.7 T=10000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.7 T=50000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.7 T=50000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.7 T=50000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.8 T=2000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.8 T=2000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.8 T=2000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.8 T=10000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.8 T=10000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.8 T=10000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.8 T=50000 D=1 trial=0: EXACT 0.06s
+n=16 p=0.8 T=50000 D=1 trial=1: EXACT 0.06s
+n=16 p=0.8 T=50000 D=1 trial=2: EXACT 0.07s
+n=16 p=0.9 T=2000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.9 T=2000 D=1 trial=1: 9 errs 0.05s
+n=16 p=0.9 T=2000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.9 T=10000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.9 T=10000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.9 T=10000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.9 T=50000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.9 T=50000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.9 T=50000 D=1 trial=2: EXACT 0.05s
+n=16 p=0.95 T=2000 D=1 trial=0: EXACT 0.04s
+n=16 p=0.95 T=2000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.95 T=2000 D=1 trial=2: 8 errs 0.04s
+n=16 p=0.95 T=10000 D=1 trial=0: EXACT 0.04s
+n=16 p=0.95 T=10000 D=1 trial=1: EXACT 0.04s
+n=16 p=0.95 T=10000 D=1 trial=2: EXACT 0.04s
+n=16 p=0.95 T=50000 D=1 trial=0: EXACT 0.05s
+n=16 p=0.95 T=50000 D=1 trial=1: EXACT 0.05s
+n=16 p=0.95 T=50000 D=1 trial=2: EXACT 0.05s
+n=24 p=0.6 T=2000 D=1 trial=0: 11 errs 0.54s
+n=24 p=0.6 T=2000 D=1 trial=1: 14 errs 0.57s
+n=24 p=0.6 T=2000 D=1 trial=2: EXACT 0.67s
+n=24 p=0.6 T=10000 D=1 trial=0: 11 errs 0.57s
+n=24 p=0.6 T=10000 D=1 trial=1: EXACT 0.54s
+n=24 p=0.6 T=10000 D=1 trial=2: 2 errs 0.52s
+n=24 p=0.6 T=50000 D=1 trial=0: 6 errs 0.53s
+n=24 p=0.6 T=50000 D=1 trial=1: EXACT 0.57s
+n=24 p=0.6 T=50000 D=1 trial=2: 2 errs 0.61s
+n=24 p=0.7 T=2000 D=1 trial=0: 14 errs 0.53s
+n=24 p=0.7 T=2000 D=1 trial=1: 10 errs 0.55s
+n=24 p=0.7 T=2000 D=1 trial=2: 11 errs 0.61s
+n=24 p=0.7 T=10000 D=1 trial=0: EXACT 0.51s
+n=24 p=0.7 T=10000 D=1 trial=1: EXACT 0.51s
+n=24 p=0.7 T=10000 D=1 trial=2: EXACT 0.50s
+n=24 p=0.7 T=50000 D=1 trial=0: EXACT 0.52s
+n=24 p=0.7 T=50000 D=1 trial=1: EXACT 0.53s
+n=24 p=0.7 T=50000 D=1 trial=2: 11 errs 0.61s
+n=24 p=0.8 T=2000 D=1 trial=0: 10 errs 0.54s
+n=24 p=0.8 T=2000 D=1 trial=1: 11 errs 0.54s
+n=24 p=0.8 T=2000 D=1 trial=2: EXACT 0.49s
+n=24 p=0.8 T=10000 D=1 trial=0: EXACT 0.96s
+n=24 p=0.8 T=10000 D=1 trial=1: EXACT 0.91s
+n=24 p=0.8 T=10000 D=1 trial=2: EXACT 0.54s
+n=24 p=0.8 T=50000 D=1 trial=0: EXACT 0.78s
+n=24 p=0.8 T=50000 D=1 trial=1: EXACT 0.53s
+n=24 p=0.8 T=50000 D=1 trial=2: EXACT 0.57s
+n=24 p=0.9 T=2000 D=1 trial=0: EXACT 0.43s
+n=24 p=0.9 T=2000 D=1 trial=1: EXACT 0.53s
+n=24 p=0.9 T=2000 D=1 trial=2: 13 errs 0.50s
+n=24 p=0.9 T=10000 D=1 trial=0: EXACT 0.45s
+n=24 p=0.9 T=10000 D=1 trial=1: EXACT 0.49s
+n=24 p=0.9 T=10000 D=1 trial=2: EXACT 0.54s
+n=24 p=0.9 T=50000 D=1 trial=0: EXACT 0.46s
+n=24 p=0.9 T=50000 D=1 trial=1: EXACT 0.55s
+n=24 p=0.9 T=50000 D=1 trial=2: EXACT 0.60s
+n=24 p=0.95 T=2000 D=1 trial=0: 12 errs 0.40s
+n=24 p=0.95 T=2000 D=1 trial=1: EXACT 0.45s
+n=24 p=0.95 T=2000 D=1 trial=2: 11 errs 0.50s
+n=24 p=0.95 T=10000 D=1 trial=0: EXACT 0.47s
+n=24 p=0.95 T=10000 D=1 trial=1: EXACT 0.41s
+n=24 p=0.95 T=10000 D=1 trial=2: EXACT 0.46s
+n=24 p=0.95 T=50000 D=1 trial=0: EXACT 0.42s
+n=24 p=0.95 T=50000 D=1 trial=1: EXACT 0.40s
+n=24 p=0.95 T=50000 D=1 trial=2: EXACT 0.40s
+n=32 p=0.6 T=2000 D=1 trial=0: 6 errs 1.34s
+n=32 p=0.6 T=2000 D=1 trial=1: 23 errs 1.25s
+n=32 p=0.6 T=2000 D=1 trial=2: 17 errs 1.23s
+n=32 p=0.6 T=10000 D=1 trial=0: 12 errs 1.20s
+n=32 p=0.6 T=10000 D=1 trial=1: 6 errs 1.11s
+n=32 p=0.6 T=10000 D=1 trial=2: 8 errs 1.32s
+n=32 p=0.6 T=50000 D=1 trial=0: 14 errs 1.42s
+n=32 p=0.6 T=50000 D=1 trial=1: 6 errs 1.25s
+n=32 p=0.6 T=50000 D=1 trial=2: 8 errs 1.19s
+n=32 p=0.7 T=2000 D=1 trial=0: 23 errs 1.28s
+n=32 p=0.7 T=2000 D=1 trial=1: 17 errs 1.21s
+n=32 p=0.7 T=2000 D=1 trial=2: 17 errs 1.12s
+n=32 p=0.7 T=10000 D=1 trial=0: 4 errs 1.04s
+n=32 p=0.7 T=10000 D=1 trial=1: 15 errs 1.09s
+n=32 p=0.7 T=10000 D=1 trial=2: 6 errs 1.21s
+n=32 p=0.7 T=50000 D=1 trial=0: EXACT 1.10s
+n=32 p=0.7 T=50000 D=1 trial=1: 14 errs 1.31s
+n=32 p=0.7 T=50000 D=1 trial=2: 6 errs 1.23s
+n=32 p=0.8 T=2000 D=1 trial=0: 17 errs 1.19s
+n=32 p=0.8 T=2000 D=1 trial=1: EXACT 1.14s
+n=32 p=0.8 T=2000 D=1 trial=2: 15 errs 1.05s
+n=32 p=0.8 T=10000 D=1 trial=0: EXACT 0.97s
+n=32 p=0.8 T=10000 D=1 trial=1: EXACT 0.96s
+n=32 p=0.8 T=10000 D=1 trial=2: EXACT 1.03s
+n=32 p=0.8 T=50000 D=1 trial=0: EXACT 1.03s
+n=32 p=0.8 T=50000 D=1 trial=1: EXACT 1.03s
+n=32 p=0.8 T=50000 D=1 trial=2: EXACT 1.03s
+n=32 p=0.9 T=2000 D=1 trial=0: 17 errs 0.83s
+n=32 p=0.9 T=2000 D=1 trial=1: 20 errs 0.95s
+n=32 p=0.9 T=2000 D=1 trial=2: 17 errs 0.91s
+n=32 p=0.9 T=10000 D=1 trial=0: EXACT 0.84s
+n=32 p=0.9 T=10000 D=1 trial=1: EXACT 0.83s
+n=32 p=0.9 T=10000 D=1 trial=2: EXACT 0.86s
+n=32 p=0.9 T=50000 D=1 trial=0: EXACT 0.79s
+n=32 p=0.9 T=50000 D=1 trial=1: EXACT 0.91s
+n=32 p=0.9 T=50000 D=1 trial=2: EXACT 0.81s
+n=32 p=0.95 T=2000 D=1 trial=0: EXACT 0.79s
+n=32 p=0.95 T=2000 D=1 trial=1: 16 errs 0.71s
+n=32 p=0.95 T=2000 D=1 trial=2: 18 errs 0.75s
+n=32 p=0.95 T=10000 D=1 trial=0: EXACT 0.77s
+n=32 p=0.95 T=10000 D=1 trial=1: EXACT 0.74s
+n=32 p=0.95 T=10000 D=1 trial=2: EXACT 0.69s
+n=32 p=0.95 T=50000 D=1 trial=0: EXACT 0.73s
+n=32 p=0.95 T=50000 D=1 trial=1: EXACT 0.81s
+n=32 p=0.95 T=50000 D=1 trial=2: EXACT 0.76s
+n=48 p=0.6 T=2000 D=1 trial=0: 24 errs 5.15s
+n=48 p=0.6 T=2000 D=1 trial=1: 23 errs 4.92s
+n=48 p=0.6 T=2000 D=1 trial=2: 26 errs 5.30s
+n=48 p=0.6 T=10000 D=1 trial=0: 16 errs 4.61s
+n=48 p=0.6 T=10000 D=1 trial=1: 19 errs 4.79s
+n=48 p=0.6 T=10000 D=1 trial=2: 24 errs 5.14s
+n=48 p=0.6 T=50000 D=1 trial=0: 16 errs 5.41s
+n=48 p=0.6 T=50000 D=1 trial=1: 16 errs 6.50s
+n=48 p=0.6 T=50000 D=1 trial=2: 10 errs 5.71s
+n=48 p=0.7 T=2000 D=1 trial=0: 23 errs 4.91s
+n=48 p=0.7 T=2000 D=1 trial=1: 26 errs 5.14s
+n=48 p=0.7 T=2000 D=1 trial=2: 21 errs 4.84s
+n=48 p=0.7 T=10000 D=1 trial=0: 23 errs 4.66s
+n=48 p=0.7 T=10000 D=1 trial=1: 20 errs 4.48s
+n=48 p=0.7 T=10000 D=1 trial=2: 21 errs 4.82s
+n=48 p=0.7 T=50000 D=1 trial=0: 17 errs 4.60s
+n=48 p=0.7 T=50000 D=1 trial=1: 16 errs 4.63s
+n=48 p=0.7 T=50000 D=1 trial=2: 19 errs 4.49s
+n=48 p=0.8 T=2000 D=1 trial=0: EXACT 4.05s
+n=48 p=0.8 T=2000 D=1 trial=1: 21 errs 4.30s
+n=48 p=0.8 T=2000 D=1 trial=2: 21 errs 3.97s
+n=48 p=0.8 T=10000 D=1 trial=0: 16 errs 3.77s
+n=48 p=0.8 T=10000 D=1 trial=1: 20 errs 4.10s
+n=48 p=0.8 T=10000 D=1 trial=2: 18 errs 4.36s
+n=48 p=0.8 T=50000 D=1 trial=0: 26 errs 4.29s
+n=48 p=0.8 T=50000 D=1 trial=1: 15 errs 4.48s
+n=48 p=0.8 T=50000 D=1 trial=2: 20 errs 4.07s
+n=48 p=0.9 T=2000 D=1 trial=0: 21 errs 2.96s
+n=48 p=0.9 T=2000 D=1 trial=1: 21 errs 3.02s
+n=48 p=0.9 T=2000 D=1 trial=2: 28 errs 2.78s
+n=48 p=0.9 T=10000 D=1 trial=0: EXACT 2.71s
+n=48 p=0.9 T=10000 D=1 trial=1: EXACT 3.11s
+n=48 p=0.9 T=10000 D=1 trial=2: EXACT 2.57s
+n=48 p=0.9 T=50000 D=1 trial=0: EXACT 2.73s
+n=48 p=0.9 T=50000 D=1 trial=1: EXACT 2.80s
+n=48 p=0.9 T=50000 D=1 trial=2: EXACT 2.42s
+n=48 p=0.95 T=2000 D=1 trial=0: EXACT 2.32s
+n=48 p=0.95 T=2000 D=1 trial=1: 30 errs 2.44s
+n=48 p=0.95 T=2000 D=1 trial=2: 22 errs 2.29s
+n=48 p=0.95 T=10000 D=1 trial=0: EXACT 1.99s
+n=48 p=0.95 T=10000 D=1 trial=1: EXACT 2.03s
+n=48 p=0.95 T=10000 D=1 trial=2: EXACT 2.16s
+n=48 p=0.95 T=50000 D=1 trial=0: EXACT 2.01s
+n=48 p=0.95 T=50000 D=1 trial=1: EXACT 2.27s
+n=48 p=0.95 T=50000 D=1 trial=2: EXACT 2.10s
+n=64 p=0.6 T=2000 D=1 trial=0: 34 errs 16.89s
+n=64 p=0.6 T=2000 D=1 trial=1: 29 errs 15.07s
+n=64 p=0.6 T=2000 D=1 trial=2: 25 errs 16.58s
+n=64 p=0.6 T=10000 D=1 trial=0: 22 errs 15.85s
+n=64 p=0.6 T=10000 D=1 trial=1: 24 errs 14.70s
+n=64 p=0.6 T=10000 D=1 trial=2: 16 errs 15.27s
+n=64 p=0.6 T=50000 D=1 trial=0: 22 errs 16.14s
+n=64 p=0.6 T=50000 D=1 trial=1: 20 errs 14.16s
+n=64 p=0.6 T=50000 D=1 trial=2: 20 errs 14.52s
+n=64 p=0.7 T=2000 D=1 trial=0: 29 errs 13.54s
+n=64 p=0.7 T=2000 D=1 trial=1: 25 errs 14.81s
+n=64 p=0.7 T=2000 D=1 trial=2: 35 errs 15.20s
+n=64 p=0.7 T=10000 D=1 trial=0: 29 errs 14.35s
+n=64 p=0.7 T=10000 D=1 trial=1: 21 errs 15.37s
+n=64 p=0.7 T=10000 D=1 trial=2: 27 errs 15.06s
+n=64 p=0.7 T=50000 D=1 trial=0: 18 errs 13.96s
+n=64 p=0.7 T=50000 D=1 trial=1: 20 errs 12.68s
+n=64 p=0.7 T=10000 D=1 trial=2: 27 errs 14.32s
+n=64 p=0.7 T=50000 D=1 trial=0: 18 errs 14.72s
+n=64 p=0.7 T=50000 D=1 trial=1: 20 errs 13.38s
+n=64 p=0.7 T=50000 D=1 trial=2: 21 errs 15.67s
+n=64 p=0.8 T=2000 D=1 trial=0: 25 errs 12.42s
+n=64 p=0.8 T=2000 D=1 trial=1: 35 errs 13.14s
+n=64 p=0.8 T=2000 D=1 trial=2: 31 errs 13.05s
+n=64 p=0.8 T=10000 D=1 trial=0: 21 errs 11.15s
+n=64 p=0.8 T=10000 D=1 trial=1: 35 errs 12.56s
+n=64 p=0.8 T=10000 D=1 trial=2: 31 errs 14.55s
+n=64 p=0.8 T=50000 D=1 trial=0: 8 errs 11.36s
+n=64 p=0.8 T=50000 D=1 trial=1: 24 errs 11.54s
+n=64 p=0.8 T=50000 D=1 trial=2: 31 errs 12.24s
+n=64 p=0.9 T=2000 D=1 trial=0: 35 errs 8.84s
+n=64 p=0.9 T=2000 D=1 trial=1: 31 errs 9.01s
+n=64 p=0.9 T=2000 D=1 trial=2: EXACT 7.08s
+n=64 p=0.9 T=10000 D=1 trial=0: EXACT 7.76s
+n=64 p=0.9 T=10000 D=1 trial=1: 10 errs 8.01s
+n=64 p=0.9 T=10000 D=1 trial=2: EXACT 6.42s
+n=64 p=0.9 T=50000 D=1 trial=0: EXACT 7.74s
+n=64 p=0.9 T=50000 D=1 trial=1: 31 errs 8.59s
+n=64 p=0.9 T=50000 D=1 trial=2: EXACT 7.76s
+n=64 p=0.95 T=2000 D=1 trial=0: 30 errs 9.08s
+n=64 p=0.95 T=2000 D=1 trial=1: EXACT 6.20s
+n=64 p=0.95 T=2000 D=1 trial=2: EXACT 6.54s
+n=64 p=0.95 T=10000 D=1 trial=0: EXACT 5.38s
+n=64 p=0.95 T=10000 D=1 trial=1: EXACT 6.15s
+n=64 p=0.95 T=10000 D=1 trial=2: EXACT 5.12s
+n=64 p=0.95 T=50000 D=1 trial=0: EXACT 5.40s
+n=64 p=0.95 T=50000 D=1 trial=1: EXACT 5.95s
+n=64 p=0.95 T=50000 D=1 trial=2: EXACT 5.21s
+n=96 p=0.9 T=10000 D=1 trial=0: 38 errs 1.71s
+n=96 p=0.9 T=10000 D=1 trial=1: 39 errs 1.80s
+n=96 p=0.9 T=10000 D=1 trial=2: 46 errs 1.84s
+n=96 p=0.9 T=50000 D=1 trial=0: 14 errs 1.62s
+n=96 p=0.9 T=50000 D=1 trial=1: 14 errs 1.48s
+n=96 p=0.9 T=50000 D=1 trial=2: 40 errs 1.87s
+n=96 p=0.95 T=10000 D=1 trial=0: 35 errs 1.17s
+n=96 p=0.95 T=10000 D=1 trial=1: 5 errs 1.15s
+n=96 p=0.95 T=10000 D=1 trial=2: 32 errs 1.23s
+n=96 p=0.95 T=50000 D=1 trial=0: EXACT 1.11s
+n=96 p=0.95 T=50000 D=1 trial=1: EXACT 0.97s
+n=96 p=0.95 T=50000 D=1 trial=2: 31 errs 1.16s
+n=128 p=0.9 T=10000 D=1 trial=0: 48 errs 3.29s
+n=128 p=0.9 T=10000 D=1 trial=1: 52 errs 3.44s
+n=128 p=0.9 T=10000 D=1 trial=2: 37 errs 3.75s
+n=128 p=0.9 T=50000 D=1 trial=0: 32 errs 3.30s
+n=128 p=0.9 T=50000 D=1 trial=1: 62 errs 3.32s
+n=128 p=0.9 T=50000 D=1 trial=2: 33 errs 3.19s
+n=128 p=0.95 T=10000 D=1 trial=0: 39 errs 2.66s
+n=128 p=0.95 T=10000 D=1 trial=1: 40 errs 2.53s
+n=128 p=0.95 T=10000 D=1 trial=2: 23 errs 2.38s
+n=128 p=0.95 T=50000 D=1 trial=0: 31 errs 2.32s
+n=128 p=0.95 T=50000 D=1 trial=1: 42 errs 2.34s
+n=128 p=0.95 T=50000 D=1 trial=2: EXACT 2.15s
+n=192 p=0.9 T=10000 D=1 trial=0: 90 errs 10.13s
+n=192 p=0.9 T=10000 D=1 trial=1: 74 errs 10.94s
+n=192 p=0.9 T=10000 D=1 trial=2: 72 errs 9.95s
+n=192 p=0.9 T=50000 D=1 trial=0: 61 errs 9.40s
+n=192 p=0.9 T=50000 D=1 trial=1: 98 errs 9.73s
+n=192 p=0.9 T=50000 D=1 trial=2: 81 errs 9.38s
+n=192 p=0.95 T=10000 D=1 trial=0: 85 errs 7.40s
+n=192 p=0.95 T=10000 D=1 trial=1: 62 errs 7.67s
+n=192 p=0.95 T=10000 D=1 trial=2: 60 errs 8.00s
+n=192 p=0.95 T=50000 D=1 trial=0: 82 errs 7.15s
+n=192 p=0.95 T=50000 D=1 trial=1: 51 errs 6.86s
+n=192 p=0.95 T=50000 D=1 trial=2: 78 errs 7.46s
+n=256 p=0.9 T=10000 D=1 trial=0: 97 errs 22.67s
+n=256 p=0.9 T=10000 D=1 trial=1: 133 errs 23.24s
+n=256 p=0.9 T=10000 D=1 trial=2: 115 errs 22.01s
+n=256 p=0.9 T=50000 D=1 trial=0: 99 errs 21.08s
+n=256 p=0.9 T=50000 D=1 trial=1: 130 errs 23.82s
+n=256 p=0.9 T=50000 D=1 trial=2: 111 errs 22.82s
+n=256 p=0.95 T=10000 D=1 trial=0: 120 errs 17.08s
+n=256 p=0.95 T=10000 D=1 trial=1: 69 errs 16.72s
+n=256 p=0.95 T=10000 D=1 trial=2: 122 errs 16.49s
+n=256 p=0.95 T=50000 D=1 trial=0: 88 errs 16.52s
+n=256 p=0.95 T=50000 D=1 trial=1: 57 errs 17.25s
+n=256 p=0.95 T=50000 D=1 trial=2: 47 errs 15.23s
+n=16 p=0.5 T=5000 D=2 trial=0: 2 errs 1.19s
+n=16 p=0.5 T=5000 D=2 trial=1: EXACT 1.11s
+n=16 p=0.5 T=5000 D=2 trial=2: EXACT 1.03s
+n=16 p=0.5 T=20000 D=2 trial=0: 2 errs 1.07s
+n=16 p=0.5 T=20000 D=2 trial=1: 2 errs 1.06s
+n=16 p=0.5 T=20000 D=2 trial=2: EXACT 1.06s
+n=16 p=0.5 T=50000 D=2 trial=0: 2 errs 1.17s
+n=16 p=0.5 T=50000 D=2 trial=1: 2 errs 1.04s
+n=16 p=0.5 T=50000 D=2 trial=2: EXACT 1.06s
+n=16 p=0.6 T=5000 D=2 trial=0: EXACT 0.99s
+n=16 p=0.6 T=5000 D=2 trial=1: EXACT 1.05s
+n=16 p=0.6 T=5000 D=2 trial=2: EXACT 1.03s
+n=16 p=0.6 T=20000 D=2 trial=0: EXACT 0.98s
+n=16 p=0.6 T=20000 D=2 trial=1: EXACT 1.01s
+n=16 p=0.6 T=20000 D=2 trial=2: EXACT 0.99s
+n=16 p=0.6 T=50000 D=2 trial=0: EXACT 1.04s
+n=16 p=0.6 T=50000 D=2 trial=1: EXACT 1.12s
+n=16 p=0.6 T=50000 D=2 trial=2: EXACT 1.03s
+n=16 p=0.7 T=5000 D=2 trial=0: EXACT 1.02s
+n=16 p=0.7 T=5000 D=2 trial=1: EXACT 1.02s
+n=16 p=0.7 T=5000 D=2 trial=2: EXACT 1.14s
+n=16 p=0.7 T=20000 D=2 trial=0: EXACT 1.09s
+n=16 p=0.7 T=20000 D=2 trial=1: EXACT 1.15s
+n=16 p=0.7 T=20000 D=2 trial=2: EXACT 1.06s
+n=16 p=0.7 T=50000 D=2 trial=0: EXACT 1.07s
+n=16 p=0.7 T=50000 D=2 trial=1: EXACT 1.09s
+n=16 p=0.7 T=50000 D=2 trial=2: EXACT 1.11s
+n=16 p=0.8 T=5000 D=2 trial=0: EXACT 1.11s
+n=16 p=0.8 T=5000 D=2 trial=1: EXACT 1.14s
+n=16 p=0.8 T=5000 D=2 trial=2: EXACT 1.16s
+n=16 p=0.8 T=20000 D=2 trial=0: EXACT 1.09s
+n=16 p=0.8 T=20000 D=2 trial=1: EXACT 1.04s
+n=16 p=0.8 T=20000 D=2 trial=2: EXACT 0.97s
+n=16 p=0.8 T=50000 D=2 trial=0: EXACT 1.10s
+n=16 p=0.8 T=50000 D=2 trial=1: EXACT 1.38s
+n=16 p=0.8 T=50000 D=2 trial=2: EXACT 1.12s
+n=24 p=0.5 T=5000 D=2 trial=0: 6 errs 28.99s
+n=24 p=0.5 T=5000 D=2 trial=1: 6 errs 29.85s
+n=24 p=0.5 T=5000 D=2 trial=2: 7 errs 28.90s
+n=24 p=0.5 T=20000 D=2 trial=0: 8 errs 30.22s
+n=24 p=0.5 T=20000 D=2 trial=1: 6 errs 29.97s
+n=24 p=0.5 T=20000 D=2 trial=2: 2 errs 30.72s
+n=32 p=0.7 T=50000 D=2 trial=0: EXACT 103.84s
+n=32 p=0.7 T=50000 D=2 trial=1: EXACT 111.31s
+n=32 p=0.8 T=50000 D=2 trial=0: EXACT 105.42s
+n=32 p=0.8 T=50000 D=2 trial=1: EXACT 106.28s
+n=24 p=0.6 T=50000 D=2 trial=0: 4 errs 31.20s
+n=24 p=0.6 T=50000 D=2 trial=1: EXACT 30.50s
+n=24 p=0.8 T=50000 D=2 trial=0: EXACT 28.53s
+n=24 p=0.8 T=50000 D=2 trial=1: EXACT 29.27s
+n=32 p=0.6 T=50000 D=2 trial=0: 13 errs 113.75s
+n=32 p=0.6 T=50000 D=2 trial=1: 14 errs 98.93s
